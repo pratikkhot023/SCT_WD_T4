@@ -1,5 +1,5 @@
 # SCT_WD_T4
-TASK MANAGER
+TO DO LIST
 
 The Smart To-Do List is a simple and elegant web application for managing daily tasks efficiently. Inspired by the vibrant colors of a peacock, the app features a visually appealing gradient interface with intuitive task management functionalities.
 Users can easily add, complete, and delete tasks, with priority-based color coding to help organize work. The app also includes a Dark/Light mode toggle for better accessibility and eye comfort. All tasks are saved in the browser’s local storage, ensuring they persist across sessions without the need for a backend.
